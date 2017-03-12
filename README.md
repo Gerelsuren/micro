@@ -7,6 +7,11 @@
 
 [Лекц 3. Хэрэглэгчийн зан үйл](https://www.dropbox.com/s/g03g0csfor0yypf/micro%20lec%203.pdf?dl=0)
 
-### Лекц 4. Пүүсийн онол
+[Лекц 4. Пүүсийн онол](https://www.dropbox.com/s/g4t1m4tvsgyczkx/micro%20lec%204.pdf?dl=0)
 
 ### Лекц 5. Төгс Өрсөлдөөнт зах зээл
+
+### Лекц 6. Монополь
+
+### Лекц 6. Олигополь
+
